@@ -1,0 +1,18 @@
+{
+    "name": "rakit/session",
+    "description": "Rakit session manager",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Muhammad Syifa",
+            "email": "emsifa@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Rakit\\Session\\": ""    
+        }
+    }, 
+    "minimum-stability": "dev",
+    "require": {}
+}
