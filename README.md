@@ -3,14 +3,14 @@ Rakit Session
 
 PHP Session Manager
 
-### Features
+## Features
 
 * Flash support
 * PDO Session handler
 * Cookie Session handler with encrypted cookie (optional)
 * File Session handler instead Native
 
-### Installation
+## Installation
 
 There is two way to install this library
 
@@ -38,6 +38,6 @@ add this repository in your `composer.json` file, and then require it
 * Put it somewhere in your project directory
 * Require/include `SessionManager.php` and session handler that you need.
 
-### Examples
+## Examples
 
 look at [samples folder](https://bitbucket.org/emsifa/rakit-session/src/master/samples/?at=master)
