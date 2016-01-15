@@ -1,6 +1,6 @@
 {
     "name": "rakit/session",
-    "description": "Rakit session manager",
+    "description": "Session manager providing PDO, Cookie, and File drivers",
     "license": "MIT",
     "authors": [
         {
