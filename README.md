@@ -8,7 +8,7 @@ PHP Session Manager
 * Flash support
 * PDO Session handler
 * Cookie Session handler with encrypted cookie (optional)
-* File Session handler instead Native
+* File Session handler (without file locking)
 
 ## Installation
 
