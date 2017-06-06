@@ -12,21 +12,11 @@ PHP Session Manager
 
 ## Installation
 
-There is two way to install this library
-
-#### 1) Using Composer
-
-add this repository in your `composer.json` file, and then require it
+Using composer
 
 ```
 composer require rakit/session
 ```
-
-#### 2) Manual
-
-* [Download](https://bitbucket.org/emsifa/rakit-session/downloads) this repository. 
-* Put it somewhere in your project directory
-* Require/include `SessionManager.php` and session handler that you need.
 
 ## Examples
 
