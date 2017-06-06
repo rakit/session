@@ -18,18 +18,8 @@ There is two way to install this library
 
 add this repository in your `composer.json` file, and then require it
 
-```json
-{
-    "repositories": [
-        {
-            "type": "git",
-            "url": "https://emsifa@bitbucket.org/emsifa/rakit-session.git"
-        }
-    ],
-    "require": {
-        "rakit/session": "dev-master"
-    }
-}
+```
+composer require rakit/session
 ```
 
 #### 2) Manual
@@ -40,4 +30,4 @@ add this repository in your `composer.json` file, and then require it
 
 ## Examples
 
-look at [samples folder](https://bitbucket.org/emsifa/rakit-session/src/master/samples/?at=master)
+look at [samples folder](https://github.com/rakit/session/tree/master/samples)
